@@ -45,7 +45,7 @@
     "debounce": "2.0.0",
     "esbuild": "0.19.11",
     "eslint-config-prettier": "9.0.0",
-    "eslint-config-turbo": "1.10.12",
+    "eslint-config-turbo": "1.13.4",
     "framer-motion": "10.17.4",
     "glob": "10.3.4",
     "log-symbols": "4.1.0",
