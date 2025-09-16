@@ -24,7 +24,7 @@
     "@react-email/button": "*",
     "@react-email/html": "*",
     "@react-email/render": "*",
-    "postmark": "3.0.14",
+    "postmark": "4.0.0",
     "react": "18.2.0"
   },
   "devDependencies": {
